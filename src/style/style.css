@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500,300);
+*{font-family: "RobotoDraft","Roboto",sans-serif; -webkit-font-smoothing: antialiased;}
+a {color: #00897B;}
+a:hover {color: #00897B;}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.rightSide {height: 1200px; overflow-y: scroll}
+.nav-tabs {margin-top: 1em;}
+.form-group {padding: 1em 0 1em 0;}
+.table_item_img {text-align: center; vertical-align: middle; height: 100px;}
+.logo_background {height: 150px; background: #00897B;}
+.logo_background h1 {font-size: 50px; color: #fff;margin: 0;text-align: center;height: 100%;padding-top: 3.5%;text-shadow: 4px 3px 0px #1d9d74, 9px 8px 0px rgba(0, 0, 0, 0.15);}
+.table tbody tr td {vertical-align: middle;}
+.vendors_list {padding: 1em; height: 150px;overflow-y: scroll;border: 1px solid #DDD;}
+.vendors_list p {margin: 0;}
+.tab-content {padding: 1em; border: 1px solid #DDD; border-radius: 0 0 4px 4px; border-top: none;}
+.description_table {text-align: center;}
+.description_table td {width: 50%;}
+.price_filter p {margin: 15px;}
+#compareUrl {background-color: #00897B; color: #fff;}
+#compare p {font-size: 30px; text-align: center;}
+.compareTable {text-align: center;}
+.compareTable th {width: 10%;vertical-align: middle !important;}
+.compareTable td {width: 25%;}
+.main_table th {text-align: center;}
+.main_table td {width: 25%; text-align: center;}
+
+
+
